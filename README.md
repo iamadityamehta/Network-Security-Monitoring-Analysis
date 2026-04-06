@@ -5,6 +5,12 @@ This project focuses on implementing **Network Security and Monitoring** techniq
 
 ---
 
+## 📌 Internship Context
+
+This task was completed as a part of my Vulnerability Assessment and Penetration Testing (VAPT) Internship at Cyart Technologies in February 2026.
+
+---
+
 ## 🎯 Objective
 - To understand network monitoring fundamentals  
 - To analyze real-time and captured network traffic  
@@ -102,6 +108,3 @@ Aditya Mehta
 Cybersecurity Enthusiast | Network Security Learner  
 
 ---
-
-## 🔗 GitHub Repository
-(Add your repo link here)
